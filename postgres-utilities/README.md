@@ -1,0 +1,1 @@
+To make the queries, columns more dynamic using SchemaManager.cols_list instead of static values.
