@@ -5,7 +5,7 @@ AI-native open-source VectorDB. Makes it easy to build LLM apps by making knowle
 In Chroma you can,
 - **Store** Embeddings and their Metadata
 - **Embed** Documents and Queries
-- **Search** embeddings
+- **Search** doc/query embeddings
 
 
 Chroma can run as a **Server**, but it also provides a client SDK for Python.
